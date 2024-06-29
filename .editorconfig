@@ -1,6 +1,7 @@
 root = true
 
-# Define all files to be considered. To allow only some of them we coud use [*.{js,py}] or [*.js]
+# Define all files to be considered. 
+# To allow only some of them we coud use [*.{js,py}] or [*.js]
 [*]
 indent_style = space
 indent_size = 2
